@@ -1,3 +1,3 @@
-# This is a personal information card made with flutter
+# This is my personal information card made with flutter
 
 ![RESULTS!!](results.png)
